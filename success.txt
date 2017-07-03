@@ -1,2 +1,3 @@
 zheciyidinghuichenggongde
 链接本地库成功！
+Creating a new branch is quick.
